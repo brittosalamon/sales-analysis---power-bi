@@ -47,7 +47,7 @@ The Sales Dashboard provides a comprehensive view of key sales metrics such as:
 
 ## 📷 Screenshots
 
-> *(sales analysis dashboard.png)*  
+> <img src="./screenshots/salesanalysisdashboard.png" alt="Sales Dashboard" width="700"/>
 > ![Dashboard Screenshot]
 
 ---
